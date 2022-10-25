@@ -6,7 +6,6 @@ import {
   ValidatorConstraint,
   ValidatorConstraintInterface,
 } from 'class-validator';
-
 import { UsuarioRepository } from '../usuario.repository';
 
 @Injectable()
